@@ -1,0 +1,33 @@
+/* css styles */
+
+a.nav-link:hover {
+      color: black !important;
+      text-decoration: underline;
+}
+
+ul.dropdown-menu {
+  background: transparent !important;
+  border-style: none !important;
+}
+
+a.dropdown-item:hover {
+  color: black !important;
+  text-decoration: underline;
+  background: transparent;
+}
+
+a{
+  color: black !important;
+  text-decoration: none;
+}
+
+a:hover{
+  color: black !important;
+  text-decoration: underline;
+}
+
+h4 {
+  color:black;
+}
+
+
